@@ -1,4 +1,4 @@
-package eng.valdinilson.application.util;
+package eng.valdinilson.loucademia.application.util;
 
 public class ValidationException extends Exception {
     public ValidationException() {
